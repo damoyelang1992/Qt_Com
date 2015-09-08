@@ -1,7 +1,7 @@
 # Qt_Com
 Qt_Com
 
-环境：ubuntu12.04+qt 5+qt creator；串口使用USB转串口线，设备号为/dev/ttyUSB0
+环境：ubuntu14.04 Kylin+qt 5+qt creator；串口使用USB转串口线，设备号为/dev/ttyUSB0
 
 在qt软件的“应用程序输出”栏里出现了这样一个问题：
 
